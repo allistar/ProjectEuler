@@ -1,0 +1,2 @@
+euler001: euler057.cpp
+	c++ euler057.cpp -o euler057 /usr/lib/libboost_math_c99-mt.so
