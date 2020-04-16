@@ -99,7 +99,7 @@ int main() {
     row, column;
   
   importData(data, &rows);
-  
+
   //starting at the 2nd to last rows
   for (row=rows-2;row>=0;row--) {
     //starting from the end position
