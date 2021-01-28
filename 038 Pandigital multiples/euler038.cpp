@@ -47,6 +47,7 @@ inline int getLength(int n, int powers[]) {
 			return i;
 		}
 	}
+	return 0;
 }
 
 int main() {
